@@ -1,0 +1,15 @@
+model,topic,n_issues,comment_count_median,comment_count_mean,attachment_count_median,attachment_count_mean,desc_len_chars_median,desc_len_chars_mean,token_count_median,token_count_mean,top_issue_type
+LDA,0,17,4.0,5.76,0.0,0.53,544.0,612.94,49.0,59.0,Improvement
+LDA,1,63,3.0,5.4,0.0,0.57,431.0,818.57,46.0,72.87,Improvement
+LDA,2,9,2.0,8.78,0.0,1.0,1243.0,1151.22,108.0,99.78,Improvement
+LDA,3,21,3.0,6.95,0.0,0.43,478.0,651.14,39.0,53.48,Bug
+LDA,4,89,3.0,6.38,0.0,0.6,540.0,746.92,49.0,67.55,Improvement
+LDA,5,4,4.5,8.75,0.0,0.25,419.5,2192.75,32.5,186.25,Bug
+LDA,6,8,4.0,22.75,0.0,0.5,340.0,440.75,34.5,44.0,Improvement
+BERTopic,0,44,3.5,11.45,0.0,0.8,430.5,782.36,44.5,72.68,Improvement
+BERTopic,1,35,4.0,8.83,1.0,1.23,725.0,1060.83,71.0,98.6,Improvement
+BERTopic,2,33,3.0,3.79,0.0,0.06,491.0,1089.39,35.0,84.97,Bug
+BERTopic,3,31,3.0,5.58,0.0,0.74,414.0,498.39,40.0,48.74,Improvement
+BERTopic,4,29,3.0,4.86,0.0,0.28,619.0,678.69,54.0,59.76,Improvement
+BERTopic,5,22,3.0,4.86,0.0,0.36,450.0,622.23,48.0,55.86,Task
+BERTopic,6,17,3.0,5.24,0.0,0.12,429.0,498.47,45.0,46.94,Task

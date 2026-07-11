@@ -1,0 +1,7 @@
+model,decision,chi2,dof,p_value,pct_expected_lt5,significant
+LDA,existence,21.0302,6,0.00181,28.6,True
+LDA,property,15.2853,6,0.01815,35.7,True
+LDA,executive,21.8997,6,0.00126,28.6,True
+BERTopic,existence,78.2467,6,0.0,0.0,True
+BERTopic,property,59.6833,6,0.0,0.0,True
+BERTopic,executive,63.5515,6,0.0,0.0,True

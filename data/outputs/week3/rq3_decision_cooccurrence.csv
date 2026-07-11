@@ -1,0 +1,4 @@
+decision_1,decision_2,both,only_1,only_2,neither,odds_ratio,phi,p_value,p_adj,significant
+existence,property,22,121,68,0,0.0,-0.8,0.0,0.0,True
+existence,executive,30,113,40,28,0.186,-0.376,0.0,0.0,True
+property,executive,43,47,27,94,3.185,0.267,0.00012,0.00012,True

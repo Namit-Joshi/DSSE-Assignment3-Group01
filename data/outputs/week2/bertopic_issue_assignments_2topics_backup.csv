@@ -1,0 +1,212 @@
+issue_key,bert_topic,bert_prob,existence,property,executive,issue_type,status
+TIKA-3521,0,0.6871,True,False,False,Task,Resolved
+TIKA-3610,1,0.7874,True,True,False,New Feature,Open
+TIKA-3601,1,1.0,False,True,True,Improvement,Closed
+TIKA-3584,0,0.5965,True,False,False,Task,Open
+TIKA-3558,1,1.0,False,True,True,Bug,Open
+TIKA-3553,0,0.7768,False,True,False,Task,Resolved
+TIKA-3527,0,0.747,True,False,True,Task,Resolved
+TIKA-3491,1,1.0,False,True,True,Bug,Open
+TIKA-3488,1,1.0,False,True,True,Task,Resolved
+TIKA-3448,1,0.8034,False,True,True,Bug,Resolved
+TIKA-3416,0,0.8851,True,False,False,New Feature,Open
+TIKA-3375,1,1.0,False,True,True,Wish,Open
+TIKA-3370,0,0.6422,False,True,False,Task,Resolved
+TIKA-3352,0,0.7833,True,False,False,Task,Resolved
+TIKA-3348,0,0.8479,True,False,False,Improvement,Open
+TIKA-3325,0,0.8851,True,False,False,Improvement,Resolved
+TIKA-3313,0,0.7429,False,True,False,Improvement,Resolved
+TIKA-3304,0,0.6184,False,True,False,Task,Resolved
+TIKA-3301,0,0.8814,False,True,False,Task,Resolved
+TIKA-3270,0,0.7983,True,False,False,Improvement,Resolved
+TIKA-3242,0,0.8488,False,True,False,Task,Resolved
+TIKA-3237,0,0.9775,False,True,False,Improvement,Resolved
+TIKA-3236,1,0.9551,False,True,True,Task,Resolved
+TIKA-3232,1,1.0,False,True,True,Bug,Resolved
+TIKA-3226,0,0.7757,True,False,False,New Feature,Resolved
+TIKA-3216,0,0.9041,True,False,False,Task,Resolved
+TIKA-3176,0,1.0,False,True,False,Improvement,Resolved
+TIKA-3143,0,0.7216,True,False,True,Task,Open
+TIKA-3137,0,0.9041,True,True,False,Task,Resolved
+TIKA-3062,0,0.7442,False,True,False,Task,Open
+TIKA-3083,0,0.5602,True,False,True,Task,Resolved
+TIKA-3054,1,0.7703,False,True,True,Bug,Resolved
+TIKA-3053,1,0.7028,False,True,True,Bug,Closed
+TIKA-3019,1,0.8297,False,True,True,Bug,Open
+TIKA-3018,1,0.7793,False,True,True,Bug,Closed
+TIKA-2956,1,0.6624,False,True,True,Bug,Resolved
+TIKA-2953,1,1.0,False,True,True,Bug,Resolved
+TIKA-2952,1,1.0,False,True,True,Bug,Resolved
+TIKA-2930,0,0.9002,True,False,False,Improvement,Open
+TIKA-2890,1,1.0,False,True,True,Improvement,Resolved
+TIKA-2885,1,1.0,False,True,True,Bug,Resolved
+TIKA-2877,1,1.0,False,True,True,Bug,Resolved
+TIKA-2841,0,0.9041,False,True,True,Task,Resolved
+TIKA-2833,0,0.9041,False,True,False,Task,Resolved
+TIKA-2762,0,0.9268,True,True,False,Improvement,Resolved
+TIKA-2749,0,0.7901,True,False,False,Task,Open
+TIKA-2725,0,0.8944,False,True,True,Task,Resolved
+TIKA-2720,0,0.8445,True,False,False,New Feature,Open
+TIKA-2717,1,0.7324,False,True,True,Bug,Resolved
+TIKA-2686,1,0.6876,False,True,True,Bug,Resolved
+TIKA-2662,0,0.7995,True,False,False,Task,Resolved
+TIKA-2585,0,0.7995,True,False,False,Improvement,Resolved
+TIKA-2577,1,0.7688,False,True,True,Bug,Resolved
+TIKA-2514,0,0.9708,False,True,False,Improvement,Open
+TIKA-2499,1,0.6412,False,True,True,Bug,Resolved
+TIKA-2434,0,0.9875,False,True,True,Bug,Open
+TIKA-2402,0,0.7469,True,False,False,Sub-task,Resolved
+TIKA-2400,0,0.6239,True,True,False,Sub-task,Resolved
+TIKA-2398,0,0.6729,True,False,True,Improvement,Open
+TIKA-2369,0,0.782,True,False,False,Bug,Open
+TIKA-2349,0,0.7453,True,False,False,Improvement,Resolved
+TIKA-2322,0,0.7465,True,False,True,Improvement,Resolved
+TIKA-2263,0,0.8109,True,False,True,Improvement,Open
+TIKA-2222,0,0.959,True,False,False,Improvement,Open
+TIKA-2075,0,0.9345,True,False,False,Improvement,In Progress
+TIKA-2021,0,0.7869,False,True,False,Improvement,Resolved
+TIKA-2016,0,0.8826,True,False,True,New Feature,Resolved
+TIKA-1993,0,0.7487,True,False,True,New Feature,Resolved
+TIKA-1978,0,1.0,False,True,True,Bug,Resolved
+TIKA-1954,0,0.8453,True,False,False,Sub-task,Open
+TIKA-1913,0,0.8052,True,False,True,New Feature,Resolved
+TIKA-1909,0,0.9216,True,False,False,Improvement,Resolved
+TIKA-1903,0,0.959,False,True,False,Improvement,Open
+TIKA-1814,0,0.959,True,False,False,Improvement,Open
+TIKA-1797,0,0.7537,True,False,False,Sub-task,Open
+TIKA-1744,0,0.6827,True,False,True,Sub-task,Resolved
+TIKA-1734,0,0.6989,True,False,False,Sub-task,Resolved
+TIKA-1722,0,0.6924,False,True,False,Improvement,Resolved
+TIKA-1691,0,0.9053,True,False,True,New Feature,Open
+TIKA-1683,0,0.959,False,True,False,New Feature,Resolved
+TIKA-1680,0,0.8953,True,False,False,Improvement,Open
+TIKA-1668,0,1.0,True,False,False,Sub-task,Open
+TIKA-1629,0,0.6829,True,True,False,Bug,Resolved
+TIKA-1614,0,0.8158,True,False,False,New Feature,Resolved
+TIKA-1610,0,0.959,False,True,True,New Feature,Resolved
+TIKA-1609,0,0.9372,True,False,True,New Feature,Open
+TIKA-1607,0,0.9147,True,False,False,Sub-task,Open
+TIKA-1582,0,0.9041,True,True,True,Improvement,Resolved
+TIKA-1580,0,0.8078,True,False,True,New Feature,Resolved
+TIKA-1541,0,0.8125,True,False,True,Improvement,Resolved
+TIKA-1540,0,0.7484,True,False,True,New Feature,Open
+TIKA-1517,0,0.9041,True,True,False,Improvement,Resolved
+TIKA-1466,0,0.7352,True,False,False,Improvement,Open
+TIKA-1425,0,0.9987,True,False,False,Improvement,Open
+TIKA-1424,1,0.5193,False,True,False,Improvement,Resolved
+TIKA-1420,0,0.959,True,False,False,Improvement,Resolved
+TIKA-1336,0,0.65,True,False,False,Improvement,Resolved
+TIKA-1406,0,0.897,False,True,False,Bug,Open
+TIKA-1385,0,1.0,True,True,False,Bug,Resolved
+TIKA-1368,0,1.0,True,True,False,Improvement,Open
+TIKA-1330,0,0.7369,True,True,False,Sub-task,Resolved
+TIKA-1296,0,0.7467,True,False,False,Improvement,Open
+TIKA-1294,0,0.8921,True,False,False,Improvement,Closed
+TIKA-1265,0,0.8726,True,False,False,Improvement,Resolved
+TIKA-1247,0,1.0,True,False,False,Improvement,Closed
+TIKA-1220,0,0.917,True,False,True,New Feature,Open
+TIKA-1208,0,0.722,True,True,True,Sub-task,Open
+TIKA-1207,0,0.6903,True,False,False,Task,Open
+TIKA-1149,0,1.0,False,True,False,Improvement,Open
+TIKA-1144,0,0.7188,True,False,False,Improvement,Open
+TIKA-1140,0,0.7394,True,False,False,Improvement,Open
+TIKA-1075,0,0.6934,True,False,False,New Feature,Resolved
+TIKA-43,0,0.9871,True,False,False,Improvement,Closed
+TIKA-944,0,0.6788,True,False,True,New Feature,Open
+TIKA-942,0,0.835,True,False,False,New Feature,Closed
+TIKA-781,0,0.8376,False,True,False,Bug,Resolved
+TIKA-932,1,0.9429,False,True,True,Improvement,Resolved
+TIKA-930,0,0.8751,True,False,False,Improvement,Resolved
+TIKA-929,0,0.9027,True,False,False,Improvement,Resolved
+TIKA-928,0,0.8415,True,False,False,Improvement,Open
+TIKA-927,0,0.8075,True,False,False,Improvement,Resolved
+TIKA-917,0,0.821,True,False,False,New Feature,Open
+TIKA-904,0,0.8057,True,False,False,Improvement,Resolved
+TIKA-884,0,0.9013,True,True,False,Improvement,Resolved
+TIKA-850,0,0.959,True,False,False,Improvement,Resolved
+TIKA-815,0,1.0,False,True,False,Test,Resolved
+TIKA-814,0,0.9041,False,True,False,Improvement,Closed
+TIKA-785,0,0.8133,True,False,False,New Feature,Resolved
+TIKA-775,0,0.959,True,False,False,Improvement,Resolved
+TIKA-774,0,0.8396,True,False,False,New Feature,Open
+TIKA-773,0,0.9751,True,False,True,New Feature,Open
+TIKA-759,0,0.959,False,True,True,Improvement,Open
+TIKA-746,0,0.7769,True,False,False,Improvement,Resolved
+TIKA-710,0,0.9942,True,False,False,Improvement,Closed
+TIKA-669,0,1.0,True,True,False,New Feature,Closed
+TIKA-662,0,0.7586,False,True,False,Improvement,Closed
+TIKA-625,0,0.959,False,True,True,Improvement,Closed
+TIKA-605,0,0.783,True,False,True,New Feature,Resolved
+TIKA-591,0,0.897,False,True,False,Improvement,Open
+TIKA-590,0,0.8519,True,False,False,Wish,Closed
+TIKA-569,0,1.0,False,True,False,Improvement,Closed
+TIKA-550,0,0.7734,True,False,False,Improvement,Resolved
+TIKA-524,0,0.8584,True,False,False,Improvement,Open
+TIKA-504,0,0.807,True,False,False,Improvement,Resolved
+TIKA-488,0,0.8225,True,False,True,Improvement,Resolved
+TIKA-483,0,0.9041,True,False,False,Bug,Resolved
+TIKA-482,0,0.8713,True,False,False,Improvement,Resolved
+TIKA-456,0,1.0,True,False,False,Improvement,Resolved
+TIKA-447,0,0.9041,True,True,False,New Feature,Closed
+TIKA-445,0,0.7635,True,False,False,New Feature,Closed
+TIKA-443,0,0.7584,True,False,False,New Feature,Resolved
+TIKA-440,0,0.8406,True,False,False,New Feature,Resolved
+TIKA-416,0,0.8197,False,True,False,New Feature,Closed
+TIKA-420,0,0.7798,True,True,True,New Feature,Resolved
+TIKA-383,0,0.8549,True,False,False,Improvement,Resolved
+TIKA-372,0,0.959,True,False,False,Improvement,Resolved
+TIKA-369,0,0.7952,False,True,False,Improvement,Resolved
+TIKA-322,0,0.8003,False,True,True,Improvement,Resolved
+TIKA-342,0,0.7017,True,False,False,Improvement,Resolved
+TIKA-337,0,0.7827,True,False,True,New Feature,Resolved
+TIKA-333,0,0.7329,False,True,True,Improvement,Closed
+TIKA-270,0,0.6069,False,True,False,Bug,Resolved
+TIKA-261,0,0.8488,True,True,False,New Feature,Resolved
+TIKA-238,0,1.0,True,False,False,Improvement,Closed
+TIKA-216,0,0.8362,False,True,False,New Feature,Closed
+TIKA-99,0,0.959,True,False,False,New Feature,Closed
+TIKA-203,0,0.9499,True,False,False,Improvement,Closed
+TIKA-172,0,0.959,True,False,False,Improvement,Closed
+TIKA-153,0,0.8247,True,True,False,New Feature,Closed
+TIKA-143,0,0.8571,True,False,True,New Feature,Closed
+TIKA-139,0,0.8694,True,False,False,New Feature,Closed
+TIKA-137,0,0.8444,True,False,False,Improvement,Closed
+TIKA-132,0,0.8017,True,False,False,Improvement,Closed
+TIKA-126,0,0.959,True,False,False,New Feature,Closed
+TIKA-116,0,0.8939,True,False,False,Improvement,Closed
+TIKA-105,0,0.7645,True,False,True,Improvement,Closed
+TIKA-95,0,0.8468,True,True,False,New Feature,Resolved
+TIKA-90,0,0.7895,True,True,False,New Feature,Open
+TIKA-69,0,0.908,True,False,False,Improvement,Closed
+TIKA-67,0,0.8743,True,False,False,New Feature,Closed
+TIKA-52,0,0.7836,True,False,False,Improvement,Closed
+TIKA-46,0,0.9297,True,False,False,Improvement,Closed
+TIKA-33,0,1.0,True,False,False,Improvement,Closed
+TIKA-31,0,1.0,True,False,False,Improvement,Closed
+TIKA-24,0,0.7636,True,False,False,Improvement,Closed
+TIKA-23,0,1.0,True,True,False,Improvement,Closed
+TIKA-6,0,0.9041,True,False,True,New Feature,Closed
+TIKA-1508,0,0.8884,True,False,False,Improvement,Resolved
+TIKA-2829,1,1.0,False,True,True,Bug,Closed
+TIKA-2911,0,0.9206,True,False,False,Task,Open
+TIKA-3638,1,1.0,False,True,True,Bug,Resolved
+TIKA-3523,0,0.7211,True,False,True,Wish,Open
+TIKA-3664,1,1.0,False,True,True,Bug,Resolved
+TIKA-3669,1,0.9979,False,True,True,Bug,Resolved
+TIKA-3703,0,0.7458,True,False,False,Task,Open
+TIKA-3681,1,0.987,True,False,False,Bug,Open
+TIKA-3689,0,0.7243,True,False,False,Task,Resolved
+TIKA-3695,0,0.7834,True,False,False,New Feature,Resolved
+TIKA-3835,0,0.7889,True,False,False,New Feature,Open
+TIKA-3836,0,0.8054,True,False,False,New Feature,Resolved
+TIKA-3837,1,1.0,False,True,True,Bug,Closed
+TIKA-3725,0,0.5448,False,True,True,New Feature,Open
+TIKA-3729,1,0.7408,False,True,True,Bug,Resolved
+TIKA-3790,0,0.7187,True,False,False,Improvement,Resolved
+TIKA-3846,0,0.7578,True,False,True,Improvement,Resolved
+TIKA-3941,0,0.7452,True,True,False,Task,Resolved
+TIKA-3861,0,0.6505,True,False,False,Task,Open
+TIKA-3885,0,0.6803,True,False,False,Improvement,Resolved
+TIKA-3892,0,0.7849,True,True,False,Task,Open
+TIKA-3900,0,0.7576,True,False,True,Improvement,Open
+TIKA-3925,1,0.9206,False,True,True,Bug,Resolved

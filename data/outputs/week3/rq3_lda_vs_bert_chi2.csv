@@ -1,0 +1,2 @@
+test,chi2,dof,p_value,pct_expected_lt5,significant
+LDA_topic x BERT_topic,114.9062,36,0.0,71.4,True

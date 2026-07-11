@@ -1,0 +1,15 @@
+Assignment 3 - Week 1 Document-Term Matrix Summary
+Project: Apache Tika
+
+Number of issues/documents: 211
+Number of terms/features: 2706
+Matrix shape without metadata columns: 211 x 2706
+Matrix shape with metadata columns: 211 x 2710
+
+Explanation:
+Each row represents one Tika Jira issue.
+Each token column represents one token from the vocabulary.
+Each token cell contains the frequency of that token in that issue.
+The first four columns contain metadata: issue_key, decision_existence, decision_property, and decision_executive.
+
+This document-term matrix will be used as input for LDA topic modeling in Week 2.

@@ -1,0 +1,23 @@
+# Week 1 (data prep, vocabulary, document-term matrix)
+pandas
+numpy
+openpyxl
+jira
+nltk
+scikit-learn
+gensim
+matplotlib
+tqdm
+
+# Week 2 (LDA + BERTopic)
+bertopic
+sentence-transformers
+umap-learn
+hdbscan
+torch
+
+# Week 3 (significance tests, plots)
+seaborn
+scipy
+statsmodels
+scikit-posthocs

@@ -1,0 +1,2 @@
+model,chi2,dof,p_value,pct_expected_lt5,significant
+BERTopic,164.1392,36,0.0,67.3,True

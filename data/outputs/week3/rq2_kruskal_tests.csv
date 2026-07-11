@@ -1,0 +1,11 @@
+model,characteristic,H_statistic,p_value,significant
+LDA,comment_count,2.3524,0.88461,False
+LDA,attachment_count,2.7629,0.83796,False
+LDA,desc_len_chars,4.5792,0.59879,False
+LDA,token_count,4.7091,0.58162,False
+LDA,issue_type (chi2),40.6787,0.27192,False
+BERTopic,comment_count,7.0936,0.31228,False
+BERTopic,attachment_count,35.3468,0.0,True
+BERTopic,desc_len_chars,14.6467,0.02319,True
+BERTopic,token_count,13.8134,0.03179,True
+BERTopic,issue_type (chi2),164.1392,0.0,True

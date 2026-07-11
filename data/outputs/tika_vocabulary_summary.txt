@@ -1,0 +1,59 @@
+Assignment 3 - Week 1 Vocabulary Summary
+Project: Apache Tika
+
+Number of issues: 211
+Total number of tokens: 14724
+Number of unique tokens: 2706
+
+Top 50 tokens:
+
+parser: frequency=348, document_frequency=103
+file: frequency=276, document_frequency=82
+metadata: frequency=222, document_frequency=64
+type: frequency=139, document_frequency=41
+text: frequency=116, document_frequency=49
+content: frequency=109, document_frequency=43
+test: frequency=108, document_frequency=14
+code: frequency=106, document_frequency=38
+document: frequency=101, document_frequency=50
+version: frequency=95, document_frequency=38
+pdf: frequency=82, document_frequency=9
+user: frequency=79, document_frequency=33
+server: frequency=77, document_frequency=32
+stream: frequency=76, document_frequency=30
+data: frequency=75, document_frequency=32
+parse: frequency=75, document_frequency=27
+class: frequency=74, document_frequency=40
+add: frequency=72, document_frequency=56
+java: frequency=68, document_frequency=24
+property: frequency=67, document_frequency=11
+object: frequency=66, document_frequency=34
+vulnerability: frequency=64, document_frequency=29
+log: frequency=62, document_frequency=8
+input: frequency=61, document_frequency=30
+cve: frequency=61, document_frequency=23
+core: frequency=61, document_frequency=22
+method: frequency=59, document_frequency=25
+vulnerable: frequency=57, document_frequency=19
+detection: frequency=55, document_frequency=28
+service: frequency=54, document_frequency=22
+xml: frequency=54, document_frequency=20
+image: frequency=54, document_frequency=17
+case: frequency=52, document_frequency=39
+string: frequency=52, document_frequency=18
+based: frequency=50, document_frequency=32
+example: frequency=50, document_frequency=32
+support: frequency=49, document_frequency=31
+application: frequency=48, document_frequency=23
+name: frequency=48, document_frequency=19
+byte: frequency=46, document_frequency=17
+field: frequency=45, document_frequency=14
+currently: frequency=44, document_frequency=38
+mime: frequency=44, document_frequency=14
+number: frequency=43, document_frequency=19
+source: frequency=42, document_frequency=20
+sonatype: frequency=42, document_frequency=9
+value: frequency=41, document_frequency=24
+component: frequency=41, document_frequency=21
+information: frequency=40, document_frequency=30
+format: frequency=40, document_frequency=22
